@@ -1,0 +1,136 @@
+body {
+  background: #1d0f0f;
+}
+.main-page {
+  text-align: center;
+  border: 1px solid rgb(174, 167, 167);
+  border-radius: 20px;
+  margin: 5%;
+  height: 60vh;
+}
+.main-page nav {
+  border: 1px solid rgb(174, 167, 167);
+  margin: 4%;
+  margin-bottom: 0;
+  border-top-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 20px;
+  font-size: 45px;
+  font-weight: 900;
+  font-family: "Brush Script MT", cursive;
+  background-color: #333b3c;
+  color: rgb(234 205 50);
+}
+.buttons {
+  border: 1px solid rgb(174, 167, 167);
+  border-radius: 5px;
+  margin: 5%;
+  margin-top: 6%;
+  display: flex;
+}
+.white-button {
+  height: 28vh;
+  width: 5vw;
+  border-color: rgb(174, 167, 167);
+  background-color: white;
+  color: white;
+}
+#black-button1 {
+  height: 19vh;
+  width: 3vw;
+  border-radius: 0;
+  position: absolute;
+  left: 13.4%;
+  background-color: black;
+  color: black;
+}
+#black-button2 {
+  height: 19vh;
+  width: 3vw;
+  border-radius: 0;
+  position: absolute;
+  left: 18.4%;
+  background-color: black;
+  color: black;
+}
+#black-button3 {
+  height: 19vh;
+  width: 3vw;
+  border-radius: 0;
+  position: absolute;
+  left: 23.4%;
+  background-color: black;
+  color: black;
+}
+#black-button4 {
+  height: 19vh;
+  width: 3vw;
+  border-radius: 0;
+  position: absolute;
+  left: 33.4%;
+  background-color: black;
+  color: black;
+}
+#black-button5 {
+  height: 19vh;
+  width: 3vw;
+  border-radius: 0;
+  position: absolute;
+  left: 38.4%;
+  background-color: black;
+  color: black;
+}
+#black-button6 {
+  height: 19vh;
+  width: 3vw;
+  border-radius: 0;
+  position: absolute;
+  left: 48.4%;
+  background-color: black;
+  color: black;
+}
+#black-button7 {
+  height: 19vh;
+  width: 3vw;
+  border-radius: 0;
+  position: absolute;
+  left: 53.4%;
+  background-color: black;
+  color: black;
+}
+#black-button8 {
+  height: 19vh;
+  width: 3vw;
+  border-radius: 0;
+  position: absolute;
+  left: 58.4%;
+  background-color: black;
+  color: black;
+}
+#black-button9 {
+  height: 19vh;
+  width: 3vw;
+  border-radius: 0;
+  position: absolute;
+  left: 68.4%;
+  background-color: black;
+  color: black;
+}
+#black-button10 {
+  height: 19vh;
+  width: 3vw;
+  border-radius: 0;
+  position: absolute;
+  left: 73.4%;
+  background-color: black;
+  color: black;
+}
+#black-button11 {
+  height: 19vh;
+  width: 3vw;
+  border-radius: 0;
+  position: absolute;
+  left: 83.4%;
+  background-color: black;
+  color: black;
+}
